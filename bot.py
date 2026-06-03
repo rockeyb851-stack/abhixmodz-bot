@@ -8,7 +8,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Mess
 # ============ CONFIG ============
 BOT_TOKEN = "8847795232:AAE9T_U_8gTHZ5xtuS6IWqJD5LNQjTM78Ts"
 STORE_NAME = "ABHIXMODZ STORE"
-BOT_USERNAME = "abhixmodzstore_bot""
+BOT_USERNAME = "abhixmodzstore_bot"
 DB_FILE = "db.json"
 
 # ============ DATABASE ============
